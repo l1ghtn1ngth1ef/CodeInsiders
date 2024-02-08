@@ -1,0 +1,158 @@
+2024-02-08 16:21:47.423 [info] Using settings sync service https://vscode-sync-insiders.trafficmanager.net/
+2024-02-08 16:21:47.423 [info] Auto Sync is enabled.
+2024-02-08 16:21:47.423 [info] Auto Sync: Suspended until auth token is available.
+2024-02-08 16:21:50.912 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/extensions
+2024-02-08 16:21:51.074 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/globalState
+2024-02-08 16:21:51.212 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/keybindings
+2024-02-08 16:21:51.461 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/profiles
+2024-02-08 16:21:51.572 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/settings
+2024-02-08 16:21:51.613 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/snippets
+2024-02-08 16:21:51.665 [info] Deleting non existing profile from backup /home/god/.config/Code - Insiders/User/sync/tasks
+2024-02-08 16:21:58.697 [info] Auto Sync: Triggered by Interval
+2024-02-08 16:21:58.697 [info] Sync started.
+2024-02-08 16:22:10.391 [info] Settings: Last sync resource does not exist locally.
+2024-02-08 16:22:11.645 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:22:11.653 [info] GlobalState: Last sync resource does not exist locally.
+2024-02-08 16:22:11.658 [info] Keybindings: Last sync resource does not exist locally.
+2024-02-08 16:22:12.608 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:22:12.610 [info] Snippets: Last sync resource does not exist locally.
+2024-02-08 16:22:13.271 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:22:13.275 [info] Tasks: Last sync resource does not exist locally.
+2024-02-08 16:22:14.233 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:22:17.153 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,cpp.1.lastSessionDate,cpp.1.sessionCount,java.2.lastSessionDate,java.2.sessionCount,csharp.1.lastSessionDate,csharp.1.sessionCount.
+2024-02-08 16:22:17.158 [info] GlobalState: Updated last synchronized ui state
+2024-02-08 16:22:17.161 [info] Extensions: Last sync resource does not exist locally.
+2024-02-08 16:22:18.152 [info] Extensions: Last sync resource does not exist locally.
+2024-02-08 16:22:20.927 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:22:20.932 [info] Profiles: Last sync resource does not exist locally.
+2024-02-08 16:22:21.911 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:22:21.921 [info] Syncing profile. WhiteLighter
+2024-02-08 16:22:22.076 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:22:22.096 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:22:22.103 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:22:22.111 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:22:22.141 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:22:22.344 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:22:22.351 [info] Sync done. Took 23653ms
+2024-02-08 16:22:22.352 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:22:22.352 [info] Sync started.
+2024-02-08 16:22:23.464 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:22:23.469 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:22:23.475 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:22:23.482 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:22:25.650 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2.
+2024-02-08 16:22:25.654 [info] GlobalState: Updated last synchronized ui state
+2024-02-08 16:22:26.004 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:22:26.012 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:22:26.014 [info] Syncing profile. WhiteLighter
+2024-02-08 16:22:26.136 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:22:26.172 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:22:26.180 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:22:26.186 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:22:26.201 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:22:26.381 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:22:26.385 [info] Sync done. Took 4032ms
+2024-02-08 16:22:26.386 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:22:26.387 [info] Sync started.
+2024-02-08 16:22:27.668 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:22:27.672 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:22:27.675 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:22:27.678 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:22:27.683 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-08 16:22:27.984 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:22:27.986 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:22:27.989 [info] Syncing profile. WhiteLighter
+2024-02-08 16:22:28.066 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:22:28.072 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:22:28.077 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:22:28.085 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:22:28.095 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:22:28.244 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:22:28.246 [info] Sync done. Took 1859ms
+2024-02-08 16:22:42.539 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:22:42.540 [info] Sync started.
+2024-02-08 16:22:43.765 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:22:43.769 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:22:43.772 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:22:43.777 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:22:43.786 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-08 16:22:44.187 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:22:44.189 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:22:44.191 [info] Syncing profile. WhiteLighter
+2024-02-08 16:22:44.358 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:22:44.371 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:22:44.374 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:22:44.385 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:22:44.398 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:22:44.543 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:22:44.546 [info] Sync done. Took 2006ms
+2024-02-08 16:23:40.819 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:23:40.819 [info] Sync started.
+2024-02-08 16:23:41.635 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:23:41.638 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:23:41.642 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:23:41.644 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:23:41.652 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-08 16:23:41.895 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:23:41.899 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:23:41.901 [info] Syncing profile. WhiteLighter
+2024-02-08 16:23:41.965 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:23:41.968 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:23:41.971 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:23:41.973 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:23:41.984 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:23:42.067 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:23:42.069 [info] Sync done. Took 1250ms
+2024-02-08 16:23:48.468 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:23:48.468 [info] Sync started.
+2024-02-08 16:23:50.644 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:23:50.671 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:23:50.689 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:23:50.695 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:23:53.468 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels.
+2024-02-08 16:23:53.469 [info] GlobalState: Updated last synchronized ui state
+2024-02-08 16:23:53.991 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:23:53.999 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:23:54.002 [info] Syncing profile. WhiteLighter
+2024-02-08 16:23:54.127 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:23:54.133 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:23:54.141 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:23:54.146 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:23:54.158 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:23:54.328 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:23:54.333 [info] Sync done. Took 5863ms
+2024-02-08 16:23:54.333 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:23:54.333 [info] Sync started.
+2024-02-08 16:23:55.252 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:23:55.263 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:23:55.271 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:23:55.276 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:23:55.290 [info] GlobalState: No changes found during synchronizing ui state.
+2024-02-08 16:23:55.745 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:23:55.747 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:23:55.751 [info] Syncing profile. WhiteLighter
+2024-02-08 16:23:55.878 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:23:55.885 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:23:55.888 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:23:55.891 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:23:55.903 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:23:56.054 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:23:56.055 [info] Sync done. Took 1723ms
+2024-02-08 16:24:06.982 [info] Auto Sync: Triggered by Activity
+2024-02-08 16:24:06.983 [info] Sync started.
+2024-02-08 16:24:08.892 [info] Settings: No changes found during synchronizing settings.
+2024-02-08 16:24:08.897 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-02-08 16:24:08.904 [info] Snippets: No changes found during synchronizing snippets.
+2024-02-08 16:24:08.909 [info] Tasks: No changes found during synchronizing tasks.
+2024-02-08 16:24:13.021 [info] GlobalState: Updated remote ui state. Updated: workbench.activity.pinnedViewlets2,workbench.panel.pinnedPanels.
+2024-02-08 16:24:13.025 [info] GlobalState: Updated last synchronized ui state
+2024-02-08 16:24:13.302 [info] Extensions: No changes found during synchronizing extensions.
+2024-02-08 16:24:13.307 [info] Profiles: No changes found during synchronizing profiles.
+2024-02-08 16:24:13.308 [info] Syncing profile. WhiteLighter
+2024-02-08 16:24:13.380 [info] Settings (WhiteLighter): No changes found during synchronizing settings.
+2024-02-08 16:24:13.384 [info] Keybindings (WhiteLighter): No changes found during synchronizing keybindings.
+2024-02-08 16:24:13.387 [info] Snippets (WhiteLighter): No changes found during synchronizing snippets.
+2024-02-08 16:24:13.390 [info] Tasks (WhiteLighter): No changes found during synchronizing tasks.
+2024-02-08 16:24:13.397 [info] GlobalState (WhiteLighter): No changes found during synchronizing ui state.
+2024-02-08 16:24:13.478 [info] Extensions (WhiteLighter): No changes found during synchronizing extensions.
+2024-02-08 16:24:13.480 [info] Sync done. Took 6497ms

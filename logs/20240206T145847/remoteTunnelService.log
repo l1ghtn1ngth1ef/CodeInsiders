@@ -1,0 +1,2 @@
+2024-02-06 14:58:57.806 [error] status error(undefined): + Error: spawn /opt/code-insiders/bin/code-tunnel-insiders EACCES 
+2024-02-06 14:58:57.806 [error] undefined

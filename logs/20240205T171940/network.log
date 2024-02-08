@@ -1,0 +1,10 @@
+2024-02-05 18:15:43.404 [error] electron #323: https://vscode-sync-insiders.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-02-05 18:43:12.707 [error] electron #533: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-02-05 18:43:26.404 [error] electron #534: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-02-05 18:43:26.404 [error] electron #535: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-02-05 21:17:58.294 [error] electron #1140: https://vscode-sync-insiders.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT
+2024-02-05 21:18:40.302 [error] electron #1141: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2024-02-05 21:19:13.762 [error] electron #1142: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2024-02-05 22:30:40.630 [error] electron #1383: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2024-02-06 06:07:09.366 [error] electron #1943: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_TIMED_OUT
+2024-02-06 06:07:27.090 [error] electron #1944: https://vscode-sync-insiders.trafficmanager.net/v1/manifest - error GET net::ERR_TIMED_OUT

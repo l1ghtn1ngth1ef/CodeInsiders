@@ -1,0 +1,25 @@
+file:///var/www/localhost/htdocs/cuba/.vscode/settings.json {"mtime":1703937288270,"ctime":1703937288270,"size":427,"etag":"3bmhkir26do","orphaned":false,"typeId":""}
+{
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false
+    },
+    "explorerExclude.backup": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "workbench.colorCustomizations": {
+        "[generated-dark]": {},
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    }
+}

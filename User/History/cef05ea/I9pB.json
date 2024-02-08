@@ -1,0 +1,24 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": false,
+        "**/Thumbs.db": false
+    },
+    "explorerExclude.backup": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "workbench.colorCustomizations": {
+        "[generated-dark]": {},
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    }
+}

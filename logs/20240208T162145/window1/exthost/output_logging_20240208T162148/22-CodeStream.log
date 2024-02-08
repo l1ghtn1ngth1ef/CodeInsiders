@@ -1,0 +1,30 @@
+[2024-02-08 05:22:13:545] CodeStream (Insiders) v15.2.0-4431 in VS Code (v1.82.0-insider) starting...
+[2024-02-08 05:22:13:547] Proxy support is in override with url=http://10.1.1.154:2020, strictSSL=true
+[2024-02-08 05:22:19:205] no NewRelic telemetry - The user aborted a request.
+[2024-02-08 05:22:19:210] autoSignIn enabled
+[2024-02-08 05:22:19:210] autoSignIn did not find teamId
+[2024-02-08 05:22:19:219] no NewRelic telemetry
+[2024-02-08 05:22:28:384] CodeStream upgraded from v15.1.1 to v15.2.0
+[2024-02-08 05:22:28:385] CodeStream (Insiders) v15.2.0-4431 started • 18359 ms
+[2024-02-08 05:22:28:449] WebviewSidebar: FAILED posting codestream/refreshMaintenancePoll to the sidebar
+[2024-02-08 05:22:28:452] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2024-02-08 05:22:28:452] [2] SidebarController.onApiVersionChanged
+[2024-02-08 05:22:28:453] [2] SidebarController.onApiVersionChanged completed • 0 ms
+[2024-02-08 05:22:28:453] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms
+[2024-02-08 05:22:40:413] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:40:914] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:41:048] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:41:550] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:41:703] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:41:729] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:42:238] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:42:646] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:42:674] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:43:175] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:43:254] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:43:754] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:44:191] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:44:746] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:44:773] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:45:274] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-08 05:22:48:201] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages

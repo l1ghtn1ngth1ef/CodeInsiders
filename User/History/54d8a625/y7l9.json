@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "jest.autoRun": "off",
+  "jest.jestCommandLine": "/var/www/localhost/htdocs/mcs/node_modules/.bin/jest",
+  "WillLuke.nextjs.addTypesOnSave": true,
+  "WillLuke.nextjs.hasPrompted": true,
+  "workbench.colorCustomizations": {
+    "[generated-dark]": {},
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  }
+}

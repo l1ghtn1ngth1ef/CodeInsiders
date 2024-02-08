@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/var/www/localhost/htdocs/uniGraph"
+		},
+		{
+			"path": "/var/www/localhost/htdocs/KonSoulOperator"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"minimap.background": "#00000000",
+			"scrollbar.shadow": "#00000000"
+		}
+	}
+}

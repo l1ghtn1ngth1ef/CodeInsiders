@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "[generated-dark]": {},
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    },
+    "files.exclude": {},
+    "vscode-edge-devtools.browserFlavor": "Dev",
+    "vscode-edge-devtools.defaultEntrypoint": "",
+    "vscode-edge-devtools.defaultUrl": "http://localhost:5173"
+}

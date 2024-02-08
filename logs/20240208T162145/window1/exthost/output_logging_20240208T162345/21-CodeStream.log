@@ -1,0 +1,12 @@
+[2024-02-08 05:24:03:459] CodeStream (Insiders) v15.2.0-4431 in VS Code (v1.82.0-insider) starting...
+[2024-02-08 05:24:03:460] Proxy support is in override with url=http://10.1.1.154:2020, strictSSL=true
+[2024-02-08 05:24:08:460] no NewRelic telemetry - The user aborted a request.
+[2024-02-08 05:24:08:462] autoSignIn enabled
+[2024-02-08 05:24:08:462] autoSignIn did not find teamId
+[2024-02-08 05:24:08:465] no NewRelic telemetry
+[2024-02-08 05:24:10:223] CodeStream (Insiders) v15.2.0-4431 started • 9661 ms
+[2024-02-08 05:24:14:642] WebviewSidebar: FAILED posting codestream/refreshMaintenancePoll to the sidebar
+[2024-02-08 05:24:14:643] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2024-02-08 05:24:14:643] [2] SidebarController.onApiVersionChanged
+[2024-02-08 05:24:14:643] [2] SidebarController.onApiVersionChanged completed • 0 ms
+[2024-02-08 05:24:14:643] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms

@@ -1,0 +1,7 @@
+2023/09/25-10:30:18.643 3b5e Reusing MANIFEST /home/god/.config/Code - Insiders/IndexedDB/https_devtools.azureedge.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/25-10:30:18.643 3b5e Recovering log #3
+2023/09/25-10:30:18.644 3b5e Reusing old log /home/god/.config/Code - Insiders/IndexedDB/https_devtools.azureedge.net_0.indexeddb.leveldb/000003.log 
+2023/09/25-10:56:19.483 3b5e Level-0 table #5: started
+2023/09/25-10:56:19.486 3b5e Level-0 table #5: 1067 bytes OK
+2023/09/25-10:56:19.487 3b5e Delete type=0 #3
+2023/09/25-10:56:19.488 3b5e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

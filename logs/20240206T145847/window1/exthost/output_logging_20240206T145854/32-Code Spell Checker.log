@@ -1,0 +1,357 @@
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-node/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-npm/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fullstack/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fullstack/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fullstack/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-svelte/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-svelte/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-svelte/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-typescript/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-typescript/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-typescript/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-django/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-django/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-django/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-html/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-html/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-html/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fonts/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fonts/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-fonts/dict/'
+}
+uncaughtException Error: ENOSPC: System limit for number of file watchers reached, watch '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-css/dict/'
+    at FSWatcher.<computed> (node:internal/fs/watchers:247:19)
+    at Object.watch (node:fs:2364:34)
+    at nH (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:95965)
+    at ji.watchFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:98562)
+    at Kg (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:100144)
+    at VTe (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12284)
+    at Jg.addFile (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:11875)
+    at /home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12746
+    at Array.forEach (<anonymous>)
+    at Jg.processSettings (/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:133:12730) {
+  errno: -28,
+  syscall: 'watch',
+  code: 'ENOSPC',
+  path: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-css/dict/',
+  filename: '/home/god/.vscode-insiders/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-css/dict/'
+}

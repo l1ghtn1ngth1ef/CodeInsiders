@@ -1,0 +1,16 @@
+Error loading "hint" package from "/var/www/localhost/htdocs/uniGraph"
+Trying to load shared version
+Found hint at /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js
+Error: Not implemented: HTMLCanvasElement.prototype.getContext (without installing the canvas npm package)
+    at module.exports (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+    at HTMLCanvasElementImpl.getContext (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/living/nodes/HTMLCanvasElement-impl.js:42:5)
+    at HTMLCanvasElement.getContext (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/living/generated/HTMLCanvasElement.js:131:58)
+    at eval (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:12324:49)
+    at Object.get (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:6665:23)
+    at _isIconLigature (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:12323:41)
+    at eval (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25770:54)
+    at Array.some (<anonymous>)
+    at hasRealTextChildren (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25769:35)
+    at Rule.colorContrastMatches [as matches] (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25739:12) undefined
+Checking if shared version of "hint" needs updated
+Last check for "hint" updates was less than 24 hours ago, skipping

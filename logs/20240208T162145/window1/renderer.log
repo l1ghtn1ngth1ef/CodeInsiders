@@ -1,0 +1,218 @@
+2024-02-08 16:21:47.758 [error] [/home/god/.vscode-insiders/extensions/ms-vscode-remote.remote-ssh-0.107.1]: Extension is not compatible with Code 1.82.0-insider. Extension requires: ^1.84.0-insider.
+2024-02-08 16:21:47.761 [error] [/home/god/.vscode-insiders/extensions/github.vscode-pull-request-github-0.78.1]: Extension is not compatible with Code 1.82.0-insider. Extension requires: ^1.85.0.
+2024-02-08 16:21:48.050 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-02-08 16:21:48.050 [error] Extension 'ms-python.python' wants API proposal 'terminalExecuteCommandEvent' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-08 16:21:48.151 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.jsModuleSystem'. This property is already registered.
+2024-02-08 16:21:48.153 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.jsFilesExtensions'. This property is already registered.
+2024-02-08 16:21:48.153 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.switchToTarget'. This property is already registered.
+2024-02-08 16:21:48.154 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.experiments'. This property is already registered.
+2024-02-08 16:21:48.154 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.showConversionWarning'. This property is already registered.
+2024-02-08 16:21:48.154 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.useExportDefault'. This property is already registered.
+2024-02-08 16:21:48.295 [info] [willstakayama.vscode-nextjs-snippets]: Command `extension.snippetSearch` already registered by ES7 React/Redux/GraphQL/React-Native snippets (with semi-colons) (dmeenhuis.es7-react-js-snippets-with-semicolons)
+2024-02-08 16:21:48.296 [info] [woodreamz.es7-react-js-snippets]: Command `extension.snippetSearch` already registered by NEXTJS Snippets tsx and jsx (willstakayama.vscode-nextjs-snippets)
+2024-02-08 16:21:49.251 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.253 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.253 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.255 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.255 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.256 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.257 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:49.258 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:21:50.668 [error] [Extension Host] (node:25137) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-08 16:21:52.110 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.111 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.111 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.113 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.113 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.113 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.114 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.326 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.326 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.326 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.327 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.328 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.328 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.329 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.836 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.837 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.837 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.838 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.838 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.838 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.839 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.839 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.840 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.840 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.840 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.841 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.841 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.841 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.842 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.843 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.843 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.843 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.844 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.844 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:52.844 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:53.634 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:53.640 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:54.186 [info] [perf] Render performance baseline is 141ms
+2024-02-08 16:21:57.231 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:58.136 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.141 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.143 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.146 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.149 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.152 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.154 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.652 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.653 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.654 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.654 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.655 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.667 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.684 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:21:58.697 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:04.271 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-02-08 16:22:07.740 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-02-08 16:22:07.938 [warning] UNRESPONSIVE extension host: 'atishay-jain.all-autocomplete' took 97.93427114490726% of 3421.844ms, saved PROFILE here: 'file:///tmp/exthost-0634f0.cpuprofile'
+2024-02-08 16:22:09.920 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:13.485 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:16.032 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:17.996 [error] [Extension Host] Name Log File Failed. EACCES: permission denied, open '/tmp/VSFeedbackVSRTCLogs/20240208_052217_17073697379270_VSLSAudio.log' Error: EACCES: permission denied, open '/tmp/VSFeedbackVSRTCLogs/20240208_052217_17073697379270_VSLSAudio.log'
+2024-02-08 16:22:21.120 [error] EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872aaf78-0x8DA40081B2F7F5B': Error: EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872aaf78-0x8DA40081B2F7F5B'
+2024-02-08 16:22:32.051 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.052 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.052 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.054 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.055 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.056 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.057 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:22:32.154 [error] [Extension Host] Unhandled Error: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:44.711 [error] [/home/god/.vscode-insiders/extensions/ms-vscode-remote.remote-ssh-0.107.1]: Extension is not compatible with Code 1.82.0-insider. Extension requires: ^1.84.0-insider.
+2024-02-08 16:23:44.711 [error] [/home/god/.vscode-insiders/extensions/github.vscode-pull-request-github-0.78.1]: Extension is not compatible with Code 1.82.0-insider. Extension requires: ^1.85.0.
+2024-02-08 16:23:44.866 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-02-08 16:23:44.867 [error] Extension 'ms-python.python' wants API proposal 'terminalExecuteCommandEvent' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-02-08 16:23:44.967 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.jsModuleSystem'. This property is already registered.
+2024-02-08 16:23:44.967 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.jsFilesExtensions'. This property is already registered.
+2024-02-08 16:23:44.967 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.switchToTarget'. This property is already registered.
+2024-02-08 16:23:44.967 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.experiments'. This property is already registered.
+2024-02-08 16:23:44.968 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.showConversionWarning'. This property is already registered.
+2024-02-08 16:23:44.968 [warning] [WooodHead.glean-react-refactor]: Cannot register 'glean.useExportDefault'. This property is already registered.
+2024-02-08 16:23:45.089 [info] [willstakayama.vscode-nextjs-snippets]: Command `extension.snippetSearch` already registered by ES7 React/Redux/GraphQL/React-Native snippets (with semi-colons) (dmeenhuis.es7-react-js-snippets-with-semicolons)
+2024-02-08 16:23:45.090 [info] [woodreamz.es7-react-js-snippets]: Command `extension.snippetSearch` already registered by NEXTJS Snippets tsx and jsx (willstakayama.vscode-nextjs-snippets)
+2024-02-08 16:23:46.905 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.906 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.907 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.907 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.907 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.908 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.908 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:46.908 [error] [Extension Host] Failed to load message bundle for file /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension
+2024-02-08 16:23:49.214 [info] [perf] Render performance baseline is 101ms
+2024-02-08 16:23:51.367 [error] [Extension Host] (node:701) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-02-08 16:23:52.937 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.938 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.940 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.941 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.942 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.944 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:52.946 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.172 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.173 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.173 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.173 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.174 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.174 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.177 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.380 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.381 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.383 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.384 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.385 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.387 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.387 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.928 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.929 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.929 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.930 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.931 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.935 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:53.935 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.160 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.160 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.161 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.161 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.161 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.162 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.162 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.593 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.594 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.594 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.594 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.595 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.596 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:54.596 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.101 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:55.558 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.875 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.876 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.876 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.877 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.877 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.878 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:55.879 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:23:56.105 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:57.348 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:58.702 [error] [Extension Host] Name Log File Failed. EACCES: permission denied, open '/tmp/VSFeedbackVSRTCLogs/20240208_052358_17073698385520_VSLSAudio.log' Error: EACCES: permission denied, open '/tmp/VSFeedbackVSRTCLogs/20240208_052358_17073698385520_VSLSAudio.log'
+2024-02-08 16:24:02.353 [error] Error: ENOENT: no such file or directory, stat '/home/god/.config/Code - Insiders/logs/20240208T162145/window1/exthost/output_logging_20240208T162345/26-Code.log': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/god/.config/Code - Insiders/logs/20240208T162145/window1/exthost/output_logging_20240208T162345/26-Code.log'
+    at i.create (/opt/code-insiders/resources/app/out/vs/code/electron-main/main.js:37:3400)
+    at s (/opt/code-insiders/resources/app/out/vs/code/electron-main/main.js:37:3512)
+    at t.ab (/opt/code-insiders/resources/app/out/vs/code/electron-main/main.js:42:37918)
+    at t.stat (/opt/code-insiders/resources/app/out/vs/code/electron-main/main.js:42:30578)
+2024-02-08 16:24:03.458 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:05.535 [error] spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:24:05.856 [error] EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872c4d7d-0x8DA40081B2F7F5B': Error: EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872c4d7d-0x8DA40081B2F7F5B'
+2024-02-08 16:24:10.894 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.895 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.895 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.896 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.897 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.898 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.899 [error] [Extension Host] A system error occurred (spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES)
+2024-02-08 16:24:10.908 [error] [Extension Host] Unhandled Error: Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608

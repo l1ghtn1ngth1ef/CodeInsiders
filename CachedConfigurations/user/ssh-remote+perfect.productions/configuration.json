@@ -1,0 +1,1 @@
+{"content":"{\n    \"vscode-edge-devtools.showWorkers\": true,\n    \"vscode-edge-devtools.useHttps\": true,\n    \"vscode-edge-devtools.webhint\": false,\n    \"vscode-edge-devtools.timeout\": 1000000,\n    \"vscode-edge-devtools.browserFlavor\": \"Stable\"\n}"}

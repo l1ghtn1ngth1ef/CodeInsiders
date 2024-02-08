@@ -1,0 +1,19 @@
+[2024-02-07 08:40:35:016] CodeStream (Insiders) v15.1.1-4430 in VS Code (v1.82.0-insider) starting...
+[2024-02-07 08:40:35:018] Proxy support is in override with url=http://10.1.1.154:2020, strictSSL=true
+[2024-02-07 08:40:39:354] autoSignIn enabled
+[2024-02-07 08:40:39:354] autoSignIn did not find teamId
+[2024-02-07 08:40:39:361] NewRelic telemetry enabled=true
+[2024-02-07 08:40:45:790] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar
+[2024-02-07 08:40:45:811] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:46:412] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:46:414] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:46:420] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:46:952] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:47:302] CodeStream (Insiders) v15.1.1-4430 started • 18026 ms
+[2024-02-07 08:40:47:339] WebviewSidebar: FAILED posting codestream/refreshMaintenancePoll to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:40:47:344] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged
+[2024-02-07 08:40:47:344] [2] SidebarController.onApiVersionChanged
+[2024-02-07 08:40:47:345] [2] SidebarController.onApiVersionChanged completed • 0 ms
+[2024-02-07 08:40:47:345] [1] CodeStreamAgentConnection.onApiVersionCompatibilityChanged completed • 0 ms
+[2024-02-07 08:42:15:505] WebviewSidebar: FAILED posting webview/editors/didChangeVisible to the sidebar; The Sidebar is invisible and can't receive messages
+[2024-02-07 08:42:16:006] WebviewSidebar: FAILED posting webview/editor/didChangeActive to the sidebar; The Sidebar is invisible and can't receive messages

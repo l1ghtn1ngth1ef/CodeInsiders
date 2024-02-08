@@ -1,0 +1,44 @@
+{
+  "name": "cloudninedevpack",
+  "version": "1.0.0",
+  "description": "⚡⚡⚡CloudNine DevPack!⚡⚡⚡",
+  "main": "index.js",
+  "scripts": {
+    "test": "vite --logLevel=silent",
+    "start": "vite ",
+    "build:client": "vite build --outDir ./Production/clientSide",
+    "build:server": "vite build --ssr ./endPoints/devServer.js --outDir ./Production/mainFrame",
+    "build": "npm run build:client && npm run build:server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1ghtn1ngth1ef/CloudNineDevPack.git"
+  },
+  "keywords": [
+    "Cloud",
+    "Nine",
+    "Dev",
+    "Pack"
+  ],
+  "author": "Robert John Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1ghtn1ngth1ef/CloudNineDevPack/issues"
+  },
+  "homepage": "https://github.com/l1ghtn1ngth1ef/CloudNineDevPack#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "url": "^0.11.3",
+    "vite": "^5.0.12"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.52",
+    "@types/react-dom": "^18.2.18"
+  }
+}

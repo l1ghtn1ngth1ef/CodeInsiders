@@ -1,0 +1,6 @@
+[Info  - 9:03:47 PM] ESLint server is starting.
+[Info  - 9:04:01 PM] ESLint server running in node v18.15.0
+[Info  - 9:04:02 PM] ESLint server is running.
+[Info  - 3:32:08 AM] ESLint library loaded from: /var/www/localhost/htdocs/uniGraph/node_modules/eslint/lib/api.js
+[Info  - 3:36:30 AM] ESLint library loaded from: /var/www/localhost/htdocs/kikpaste/node_modules/eslint/lib/api.js
+[Info  - 4:16:56 PM] ESLint server stopped.

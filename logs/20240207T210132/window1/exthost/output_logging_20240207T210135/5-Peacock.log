@@ -1,0 +1,12 @@
+Peacock Mementos
+  [
+  {
+    "name": "peacock.favoritesVersion",
+    "type": "globalState"
+  }
+]
+Peacock is in a workspace, so Peacock functionality is available.
+peacock: Updating the workspace with the following color customizations
+  minimap.background = #00000000
+  scrollbar.shadow = #00000000
+

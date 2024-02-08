@@ -1,0 +1,18 @@
+{
+  "name": "truegray - Fork - Fork",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "enumMember": {
+      "foreground": "#ffffff80"
+    },
+    "variable.constant": {
+      "foreground": "#ffffffc0"
+    },
+    "variable.defaultLibrary": {
+      "foreground": "#ffffff"
+    }
+  },
+
+
+}

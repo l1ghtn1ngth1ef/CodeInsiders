@@ -1,0 +1,20 @@
+16:22:12 GMT+1100 (Australian Eastern Daylight Time) [INFO]: spawning binary with command: /home/god/.config/Code - Insiders/User/globalStorage/tabnine.tabnine-vscode/binaries/4.99.0/x86_64-unknown-linux-musl/TabNine args: --tls_config insecure=false --no-lsp=true --client=vscode --client-metadata clientVersion=1.82.0-insider pluginVersion=3.67.0 t9-vscode-AutoImportEnabled=true t9-vscode-TSAutoImportEnabled=true t9-vscode-JSAutoImportEnabled=true vscode-telemetry-enabled=true vscode-remote=false vscode-extension-kind=1 vscode-theme-name=Black Waves vscode-theme-kind=Dark vscode-machine-id=b221aeeb94271184106293454c77e08df1f155840f20c72b776093535cd2252f vscode-is-new-app-install=false vscode-session-id=9b0975a8-0cae-4419-8ed4-15918c83c3bd1707369705978 vscode-language=en vscode-app-name=Visual Studio Code - Insiders vscode-beta-channel-enabled=false vscode-status-customization=unknown vscode-inline-api-enabled=true vscode-code-lens-enabled=true vscode-found-intellicode=false ide-restart-counter=0 
+
+16:22:12 GMT+1100 (Australian Eastern Daylight Time) [DEBUG]: capabilities resolved immediately 
+
+16:22:16 GMT+1100 (Australian Eastern Daylight Time) [DEBUG]: Updating root paths for project MultiVerse (Workspace): ["/var/www/localhost/htdocs/uniGraph","/var/www/localhost/htdocs/KonSoulOperator","/var/www/localhost/htdocs/kikpaste","/var/www/localhost/htdocs/MultiVerse","/var/www/localhost/htdocs/PerfectLint","/var/www/localhost/htdocs/NextMc2squared","/var/www/localhost/htdocs/CloudNine"] 
+
+16:22:17 GMT+1100 (Australian Eastern Daylight Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:22:18 GMT+1100 (Australian Eastern Daylight Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:22:20 GMT+1100 (Australian Eastern Daylight Time) [ERROR]: Error: Binary request timed out. {"Workspace":{"root_paths":["/var/www/localhost/htdocs/uniGraph","/var/www/localhost/htdocs/KonSoulOperator","/var/www/localhost/htdocs/kikpaste","/var/www/localhost/htdocs/MultiVerse","/var/www/localhost/htdocs/PerfectLint","/var/www/localhost/htdocs/NextMc2squared","/var/www/localhost/htdocs/CloudNine"]}} 
+
+16:22:23 GMT+1100 (Australian Eastern Daylight Time) [ERROR]: Error: Binary request timed out. {"State":{}} 
+
+16:22:46 GMT+1100 (Australian Eastern Daylight Time) [DEBUG]: Updating root paths for project MultiVerse (Workspace): ["/var/www/localhost/htdocs/uniGraph","/var/www/localhost/htdocs/KonSoulOperator","/var/www/localhost/htdocs/kikpaste","/var/www/localhost/htdocs/MultiVerse","/var/www/localhost/htdocs/PerfectLint","/var/www/localhost/htdocs/NextMc2squared","/var/www/localhost/htdocs/CloudNine"] 
+
+16:23:16 GMT+1100 (Australian Eastern Daylight Time) [DEBUG]: Updating root paths for project MultiVerse (Workspace): ["/var/www/localhost/htdocs/uniGraph","/var/www/localhost/htdocs/KonSoulOperator","/var/www/localhost/htdocs/kikpaste","/var/www/localhost/htdocs/MultiVerse","/var/www/localhost/htdocs/PerfectLint","/var/www/localhost/htdocs/NextMc2squared","/var/www/localhost/htdocs/CloudNine"] 
+
+16:23:42 GMT+1100 (Australian Eastern Daylight Time) [WARN]: assistant is closing 
+

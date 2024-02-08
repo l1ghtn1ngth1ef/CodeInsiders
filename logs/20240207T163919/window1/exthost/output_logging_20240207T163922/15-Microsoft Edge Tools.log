@@ -1,0 +1,102 @@
+Error loading "hint" package from "/var/www/localhost/htdocs/uniGraph"
+Trying to load shared version
+Found hint at /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js
+Checking if shared version of "hint" needs updated
+npm verb cli /home/god/.nvm/versions/node/v20.3.0/bin/node /home/god/.nvm/versions/node/v20.3.0/bin/npm
+npm info using npm@9.6.7
+npm info using node@v20.3.0
+npm verb title npm install @hint/configuration-development@latest hint@latest typescript@latest
+npm verb argv "install" "@hint/configuration-development@latest" "hint@latest" "typescript@latest" "--save-dev" "--loglevel" "verbose"
+npm verb logfile logs-max:10 dir:/home/god/.npm/_logs/2024-02-07T05_41_31_329Z-
+npm verb logfile /home/god/.npm/_logs/2024-02-07T05_41_31_329Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/typescript 711ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/hint 1209ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-development 1644ms (cache revalidated)
+npm verb reify failed optional dependency /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/fsevents
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 323ms
+npm http fetch GET 200 https://registry.npmjs.org/postcss 55ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/got 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/package-json 45ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-safe-parser 129ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-scss 155ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-sass 302ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-css-prefix-order 316ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-sass 335ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-css 370ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-less 377ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-detect-css-reflows 1226ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/latest-version 46ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/update-notifier 45ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-local 396ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-html 397ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-web-recommended 407ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-accessibility 413ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-axe 493ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-compat-api 671ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-jsdom 766ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-http-cache 769ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-summary 782ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-progressive-web-apps 800ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-disown-opener 847ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-image-optimization-cloudinary 961ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-json 1018ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-html-checker 1097ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-puppeteer 1308ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-babel-config 1411ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-is-valid 1448ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-leading-dot-classlist 1461ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-content-type 1576ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-highest-available-document-mode 1587ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-http-redirects 1688ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-meta-charset-utf-8 1740ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-apple-touch-icons 1944ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-button-type 1945ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-http-compression 1948ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-bom 1964ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-stylish 1977ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-create-element-svg 1982ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-validate-set-cookie-header 2021ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-meta-viewport 2032ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-protocol-relative-urls 2142ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-file-extension 2155ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-friendly-error-pages 2196ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-stylesheet-limits 2216ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-ssllabs 2225ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-typescript-config 2318ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-scoped-svg-styles 2391ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-javascript 2409ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-html 2494ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-webpack-config 2595ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-x-content-type-options 2611ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-exists 2689ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-html-only-headers 2707ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-vulnerable-javascript-libraries 2791ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-jsx 2813ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-manifest 2862ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-typescript 2909ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2futils-connector-tools 3060ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-babel-config 3131ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-sri 3146ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-app-name 3185ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-webpack-config 3205ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-strict-transport-security 3258ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-inline-styles 3272ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-disallowed-headers 3279ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-typescript-config 3698ms (cache revalidated)
+
+up to date, audited 578 packages in 8s
+
+89 packages are looking for funding
+  run `npm fund` for details
+
+68 moderate severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm verb exit 0
+npm info ok 

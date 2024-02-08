@@ -1,0 +1,9 @@
+{
+    "files.exclude": {},
+    "jest.jestCommandLine": "jest",
+    "cSpell.words": [
+        "kitql",
+        "pkill",
+        "Propmpt"
+    ]
+}

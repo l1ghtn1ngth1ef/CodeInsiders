@@ -1,0 +1,3 @@
+Error loading "hint" package from "/var/www/localhost/htdocs/uniGraph"
+Trying to load shared version
+Found hint at /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js

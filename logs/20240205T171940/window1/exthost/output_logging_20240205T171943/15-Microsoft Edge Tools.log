@@ -1,0 +1,113 @@
+Error loading "hint" package from "/var/www/localhost/htdocs/uniGraph"
+Trying to load shared version
+Found hint at /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/hint/dist/src/lib/index.js
+Checking if shared version of "hint" needs updated
+npm verb cli /home/god/.nvm/versions/node/v20.3.0/bin/node /home/god/.nvm/versions/node/v20.3.0/bin/npm
+npm info using npm@9.6.7
+npm info using node@v20.3.0
+npm verb title npm install @hint/configuration-development@latest hint@latest typescript@latest
+npm verb argv "install" "@hint/configuration-development@latest" "hint@latest" "typescript@latest" "--save-dev" "--loglevel" "verbose"
+npm verb logfile logs-max:10 dir:/home/god/.npm/_logs/2024-02-05T06_21_53_076Z-
+npm verb logfile /home/god/.npm/_logs/2024-02-05T06_21_53_076Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/typescript 356ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/hint 421ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-development 1710ms (cache miss)
+npm verb reify failed optional dependency /home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/fsevents
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 337ms
+npm http fetch GET 200 https://registry.npmjs.org/postcss 63ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/got 82ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/package-json 48ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-safe-parser 124ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-scss 166ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-sass 180ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-sass 194ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-detect-css-reflows 1484ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-css 1485ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-less 1489ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-css-prefix-order 1877ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/latest-version 46ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/update-notifier 83ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-web-recommended 141ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-progressive-web-apps 152ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconfiguration-accessibility 154ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-puppeteer 893ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-html 898ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-stylish 909ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-create-element-svg 920ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-content-type 923ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-summary 933ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-button-type 935ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-axe 1405ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-local 1454ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fformatter-json 1506ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-disown-opener 1528ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-apple-touch-icons 1553ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-compat-api 1554ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-babel-config 1575ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-highest-available-document-mode 1632ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-disallowed-headers 1643ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-image-optimization-cloudinary 1652ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-leading-dot-classlist 1662ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-http-cache 1740ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-html-only-headers 1736ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fconnector-jsdom 2160ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-friendly-error-pages 2176ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-html-checker 2281ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-protocol-relative-urls 2297ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-http-compression 2313ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-bom 2321ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-meta-charset-utf-8 2326ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-meta-viewport 2333ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-validate-set-cookie-header 2365ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-x-content-type-options 2430ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-inline-styles 2507ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-sri 2700ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-exists 2791ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-manifest 2867ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-is-valid 2899ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-vulnerable-javascript-libraries 2896ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-scoped-svg-styles 2978ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-app-name 2998ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-strict-transport-security 3000ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-stylesheet-limits 3032ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-webpack-config 3036ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-typescript-config 3043ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-no-http-redirects 3099ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-babel-config 3175ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-javascript 3215ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-html 3249ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-ssllabs 3525ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fhint-manifest-file-extension 3542ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-jsx 3617ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-webpack-config 3619ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-typescript 3633ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2futils-connector-tools 3712ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@hint%2fparser-typescript-config 3725ms (cache miss)
+
+up to date, audited 578 packages in 9s
+
+89 packages are looking for funding
+  run `npm fund` for details
+
+68 moderate severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+npm verb exit 0
+npm info ok 
+Error: Not implemented: HTMLCanvasElement.prototype.getContext (without installing the canvas npm package)
+    at module.exports (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/browser/not-implemented.js:9:17)
+    at HTMLCanvasElementImpl.getContext (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/living/nodes/HTMLCanvasElement-impl.js:42:5)
+    at HTMLCanvasElement.getContext (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jsdom/lib/jsdom/living/generated/HTMLCanvasElement.js:131:58)
+    at eval (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:12324:49)
+    at Object.get (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:6665:23)
+    at _isIconLigature (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:12323:41)
+    at eval (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25770:54)
+    at Array.some (<anonymous>)
+    at hasRealTextChildren (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25769:35)
+    at Rule.colorContrastMatches [as matches] (eval at evaluate (/home/god/.config/Code - Insiders/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/@hint/connector-local/dist/src/connector.js:244:38), <anonymous>:25739:12) undefined

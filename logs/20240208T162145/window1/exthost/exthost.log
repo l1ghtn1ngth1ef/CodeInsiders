@@ -1,0 +1,1706 @@
+2024-02-08 16:21:48.227 [info] Extension host with pid 25137 started
+2024-02-08 16:21:48.227 [info] Skipping acquiring lock for /home/god/.config/Code - Insiders/User/workspaceStorage/2c060d72b018989ae356b0bf12d1cde6.
+2024-02-08 16:21:48.972 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-08 16:21:48.984 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-08 16:21:49.041 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-08 16:21:49.081 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-08 16:21:49.172 [info] ExtensionService#_doActivateExtension numso.prettier-standard-vscode, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-08 16:21:49.847 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-08 16:21:49.854 [info] ExtensionService#_doActivateExtension ArturGuedx.terminal-auto-panel, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.857 [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.867 [info] ExtensionService#_doActivateExtension baleiko.syntax-highlighting-scopes-showroom, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.871 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.913 [info] ExtensionService#_doActivateExtension Code4Me.code4me-plugin, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.958 [info] ExtensionService#_doActivateExtension CriticalSoft.Web-Search-03-Video, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.973 [info] ExtensionService#_doActivateExtension dinhani.copy-on-select, startup: true, activationEvent: '*'
+2024-02-08 16:21:49.980 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.013 [info] ExtensionService#_doActivateExtension formulahendry.terminal, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.043 [info] ExtensionService#_doActivateExtension Gruntfuggly.scoper, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.055 [info] ExtensionService#_doActivateExtension HaaLeo.timing, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.080 [info] ExtensionService#_doActivateExtension hoovercj.vscode-settings-cycler, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.088 [info] ExtensionService#_doActivateExtension iocave.monkey-patch, startup: true, activationEvent: '*', root cause: iocave.customize-ui
+2024-02-08 16:21:50.099 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.107 [info] ExtensionService#_doActivateExtension karigari.chat, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.206 [info] ExtensionService#_doActivateExtension lannonbr.vscode-js-annotations, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.312 [info] ExtensionService#_doActivateExtension M4adan.react-native-tailwind, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.334 [info] ExtensionService#_doActivateExtension metaseed.metago, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.341 [info] ExtensionService#_doActivateExtension metaseed.MetaJump, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.348 [info] ExtensionService#_doActivateExtension metaseed.MetaWord, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.353 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.389 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*', root cause: ms-vsliveshare.vsliveshare-audio
+2024-02-08 16:21:50.601 [info] ExtensionService#_doActivateExtension nhoizey.gremlins, startup: true, activationEvent: '*'
+2024-02-08 16:21:50.604 [info] ExtensionService#_doActivateExtension Noctarya.terminals, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.032 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.160 [info] ExtensionService#_doActivateExtension OnlyLys.leaper, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.166 [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.804 [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.807 [info] ExtensionService#_doActivateExtension spmeesseman.vscode-extjs, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.902 [info] ExtensionService#_doActivateExtension svipas.control-snippets, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.905 [info] ExtensionService#_doActivateExtension tintaydo.convert, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.919 [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.927 [info] ExtensionService#_doActivateExtension xyz.local-history, startup: true, activationEvent: '*'
+2024-02-08 16:21:51.972 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-08 16:21:52.976 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-08 16:21:53.014 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-08 16:21:53.257 [error] Activating extension numso.prettier-standard-vscode failed due to an error:
+2024-02-08 16:21:53.257 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:53.498 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:53.499 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:53.499 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:53.512 [info] ExtensionService#_doActivateExtension iocave.customize-ui, startup: true, activationEvent: '*'
+2024-02-08 16:21:53.564 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-08 16:21:53.619 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-08 16:21:53.818 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:53.865 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:54.657 [info] ExtensionService#_doActivateExtension mattpocock.ts-error-translator, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:54.820 [info] ExtensionService#_doActivateExtension meganrogge.template-string-converter, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:54.823 [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:54.825 [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:54.832 [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:55.415 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:55.655 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:56.095 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:56.213 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:56.293 [info] ExtensionService#_doActivateExtension wix.glean, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:56.646 [info] ExtensionService#_doActivateExtension WooodHead.glean-react-refactor, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:21:57.227 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:57.495 [error] Activating extension mattpocock.ts-error-translator failed due to an error:
+2024-02-08 16:21:57.496 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+	at updateDiagnostics (/home/god/.vscode-insiders/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+	at activate (/home/god/.vscode-insiders/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61742:11)
+	at G.eb (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13084)
+	at G.db (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12802)
+	at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10842
+	at async E.n (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6206)
+	at async E.m (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6169)
+	at async E.l (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5626)
+2024-02-08 16:21:57.764 [error] Activating extension WooodHead.glean-react-refactor failed due to an error:
+2024-02-08 16:21:57.764 [error] Error: command 'extension.glean' already exists
+	at r.registerCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80152)
+	at Object.registerCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20364)
+	at activate (/home/god/.vscode-insiders/extensions/wooodhead.glean-react-refactor-4.8.4/out/extension.js:80:21)
+	at G.eb (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13084)
+	at G.db (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12802)
+	at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10842
+	at async E.n (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6206)
+	at async E.m (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6169)
+	at async E.l (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5626)
+2024-02-08 16:21:58.658 [error] Activating extension vscode.npm failed due to an error:
+2024-02-08 16:21:58.658 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:21:58.662 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:07.833 [error] TypeError: Cannot read properties of undefined (reading 'program')
+	at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+	at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+	at Generator.next (<anonymous>)
+	at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+	at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+	at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+	at Generator.next (<anonymous>)
+	at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+	at new Promise (<anonymous>)
+	at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+	at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+	at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+	at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+	at f.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+	at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+	at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at f.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at a.acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+	at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+	at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+	at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+	at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+	at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+	at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+	at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at f.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+	at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+	at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+	at f.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+	at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+	at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:07.958 [error] Error: Setup Team Chat to work for your account.
+	at /home/god/.vscode-insiders/extensions/karigari.chat-0.35.0/out/extension.js:151:179152
+	at Timeout._onTimeout (/home/god/.vscode-insiders/extensions/karigari.chat-0.35.0/out/extension.js:151:179182)
+	at listOnTimeout (node:internal/timers:569:17)
+	at process.processTimers (node:internal/timers:512:7)
+2024-02-08 16:22:08.237 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.241 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.253 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.263 [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.272 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.285 [info] ExtensionService#_doActivateExtension ApolloGraphQL.apollo-workbench, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.410 [info] ExtensionService#_doActivateExtension BenRogersWPG.transparent-minimap, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.413 [info] ExtensionService#_doActivateExtension bierner.emojisense, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.423 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.447 [info] ExtensionService#_doActivateExtension CodeSandbox-io.codesandbox-projects, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.572 [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.751 [info] ExtensionService#_doActivateExtension ctf0.macros, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:08.754 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.249 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.293 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.419 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.484 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.622 [info] ExtensionService#_doActivateExtension kricsleo.vscode-package-json-inspector, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.625 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.637 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.659 [info] ExtensionService#_doActivateExtension stivo.tailwind-fold, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.663 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.735 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.762 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.808 [info] ExtensionService#_doActivateExtension vsls-contrib.gistfs, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.851 [info] ExtensionService#_doActivateExtension wraith13.bracket-lens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:22:09.876 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:12.125 [error] Error: EACCES: permission denied, mkdir '/var/www/localhost/htdocs/uniGraph/.vscode'
+    at Object.mkdirSync (node:fs:1398:3)
+    at Object.e.exports.makeDirSync (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:103659)
+    at Object.createFileSync (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:97562)
+    at ae.configureLaunchJson (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:1662753)
+    at /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:1692545
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.$executeContributedCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:82406)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:14.619 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2523
+2024-02-08 16:22:16.021 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:22:16.024 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:16.456 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2523
+2024-02-08 16:22:16.527 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:17.105 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1841
+2024-02-08 16:22:17.529 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare-audio, startup: true, activationEvent: '*'
+2024-02-08 16:22:18.479 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1841
+2024-02-08 16:22:19.198 [error] Error: EACCES: permission denied, mkdir '/var/www/localhost/htdocs/uniGraph/.vscode'
+    at Object.mkdirSync (node:fs:1398:3)
+    at Object.e.exports.makeDirSync (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:103659)
+    at Object.createFileSync (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:97562)
+    at ae.configureLaunchJson (/home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:1662753)
+    at /home/god/.vscode-insiders/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.4/out/extension.js:1:1692545
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.$executeContributedCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:82406)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:21.083 [error] Error: EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872aaf78-0x8DA40081B2F7F5B'
+2024-02-08 16:22:23.049 [info] Eager extensions activated
+2024-02-08 16:22:24.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2615
+2024-02-08 16:22:24.786 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2615
+2024-02-08 16:22:26.777 [error] TypeError: Cannot read properties of undefined (reading 'appendLine')
+    at Object.get followedUsers [as followedUsers] (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:780311)
+    at t.refreshGists (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:776491)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at y (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:778251)
+    at v (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:778699)
+    at t.initializeAuth (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:779191)
+2024-02-08 16:22:32.490 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-02-08 16:22:34.907 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-02-08 16:22:37.876 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:41.707 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:42.165 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:42.651 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:42.786 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:43.256 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:43.693 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:44.362 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:44.754 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:45.142 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:45.211 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:45.784 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:22:45.985 [warning] TextEditor is closed/disposed
+2024-02-08 16:22:48.088 [warning] TextEditor is closed/disposed
+2024-02-08 16:23:28.848 [error] TypeError: Cannot read properties of undefined (reading 'program')
+    at Object.getFunctionCalls (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/parser.js:74:57)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:90:30
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at createDecorations (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:85:12)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:75:47
+    at Generator.next (<anonymous>)
+    at /home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:3:12)
+    at run (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:56:12)
+    at n.value (/home/god/.vscode-insiders/extensions/lannonbr.vscode-js-annotations-0.11.0/out/extension.js:26:9)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:106:15872)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:12594)
+    at a.$acceptDocumentsAndEditorsDelta (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:10965)
+    at i.N (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7983)
+    at i.M (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:7749)
+    at i.H (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:6830)
+    at i.G (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5906)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:4736)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at n.value (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:30411)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2119)
+    at w.fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:79:13932)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28691)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:23:42.514 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-08 16:23:42.627 [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.scoper':
+2024-02-08 16:23:42.628 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Scoper.dispose (/home/god/.vscode-insiders/extensions/gruntfuggly.scoper-0.0.13/scoper.js:183:24)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:23:42.658 [error] An error occurred when deactivating the extension 'stivo.tailwind-fold':
+2024-02-08 16:23:42.659 [error] TypeError: Cannot destructure property 'subscriptions' of 'undefined' as it is undefined.
+    at Object.deactivate (/home/god/.vscode-insiders/extensions/stivo.tailwind-fold-0.1.0/out/extension.js:38:23)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9450)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:23:42.673 [warning] Canceled
+2024-02-08 16:23:42.679 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.680 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.680 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.681 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.682 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.683 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.684 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.685 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at t.$D.set b [as b] (/opt/code-insiders/resources/app/extensions/github/dist/extension.js:2:676102)
+    at /opt/code-insiders/resources/app/extensions/github/dist/extension.js:2:676743
+    at n.value (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1348807)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.685 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.686 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.687 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.689 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at CodeManager.stopRunning (/home/god/.vscode-insiders/extensions/formulahendry.code-runner-0.12.1/out/src/codeManager.js:115:29)
+    at CodeManager.dispose (/home/god/.vscode-insiders/extensions/formulahendry.code-runner-0.12.1/out/src/codeManager.js:97:14)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.690 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/lookAheadSuggestion.ts:162:21)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at forEach (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:121:7)
+    at Array.forEach (<anonymous>)
+    at uninstallAutocomplete (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:120:17)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:27:20)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:23:42.792 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at ChildProcess.<anonymous> (/home/god/.vscode-insiders/extensions/formulahendry.code-runner-0.12.1/out/src/codeManager.js:442:33)
+    at ChildProcess.emit (node:events:513:28)
+    at ChildProcess.emit (node:domain:489:12)
+    at maybeClose (node:internal/child_process:1091:16)
+    at Socket.<anonymous> (node:internal/child_process:449:11)
+    at Socket.emit (node:events:513:28)
+    at Socket.emit (node:domain:489:12)
+    at Pipe.<anonymous> (node:net:322:12) setContext undefined
+2024-02-08 16:23:43.676 [error] Error: Channel has been closed
+    at s (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2490)
+    at Object.appendLine (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2608)
+    at Object.log (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/binary/Binary.ts:82:14)
+    at async Promise.all (index 74)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7594)
+2024-02-08 16:23:45.058 [info] Extension host with pid 701 started
+2024-02-08 16:23:45.058 [info] Skipping acquiring lock for /home/god/.config/Code - Insiders/User/workspaceStorage/2c060d72b018989ae356b0bf12d1cde6.
+2024-02-08 16:23:46.114 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-08 16:23:46.125 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.149 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.186 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.559 [info] ExtensionService#_doActivateExtension mattpocock.ts-error-translator, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.656 [info] ExtensionService#_doActivateExtension meganrogge.template-string-converter, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.659 [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.661 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.731 [info] ExtensionService#_doActivateExtension ms-vscode.vscode-typescript-tslint-plugin, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.736 [info] ExtensionService#_doActivateExtension numso.prettier-standard-vscode, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:46.839 [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:47.244 [info] ExtensionService#_doActivateExtension Prisma.prisma, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:47.430 [info] ExtensionService#_doActivateExtension rbbit.typescript-hero, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:47.644 [info] Extension host with pid 25137 exiting with code 0
+2024-02-08 16:23:47.940 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:48.118 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:48.171 [info] ExtensionService#_doActivateExtension wix.glean, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:48.437 [info] ExtensionService#_doActivateExtension WooodHead.glean-react-refactor, startup: false, activationEvent: 'onLanguage:javascript'
+2024-02-08 16:23:49.737 [error] Activating extension WooodHead.glean-react-refactor failed due to an error:
+2024-02-08 16:23:49.737 [error] Error: command 'extension.glean' already exists
+	at r.registerCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80152)
+	at Object.registerCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:20364)
+	at activate (/home/god/.vscode-insiders/extensions/wooodhead.glean-react-refactor-4.8.4/out/extension.js:80:21)
+	at G.eb (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13084)
+	at G.db (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12802)
+	at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10842
+	at async E.n (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6206)
+	at async E.m (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:6169)
+	at async E.l (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:5626)
+2024-02-08 16:23:49.834 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-08 16:23:49.844 [info] ExtensionService#_doActivateExtension ArturGuedx.terminal-auto-panel, startup: true, activationEvent: '*'
+2024-02-08 16:23:49.852 [info] ExtensionService#_doActivateExtension Atishay-Jain.All-Autocomplete, startup: true, activationEvent: '*'
+2024-02-08 16:23:49.880 [info] ExtensionService#_doActivateExtension baleiko.syntax-highlighting-scopes-showroom, startup: true, activationEvent: '*'
+2024-02-08 16:23:49.886 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2024-02-08 16:23:49.954 [info] ExtensionService#_doActivateExtension Code4Me.code4me-plugin, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.007 [info] ExtensionService#_doActivateExtension CriticalSoft.Web-Search-03-Video, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.011 [info] ExtensionService#_doActivateExtension dinhani.copy-on-select, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.042 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.106 [info] ExtensionService#_doActivateExtension formulahendry.terminal, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.180 [info] ExtensionService#_doActivateExtension Gruntfuggly.scoper, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.197 [info] ExtensionService#_doActivateExtension HaaLeo.timing, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.222 [info] ExtensionService#_doActivateExtension hoovercj.vscode-settings-cycler, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.228 [info] ExtensionService#_doActivateExtension iocave.monkey-patch, startup: true, activationEvent: '*', root cause: iocave.customize-ui
+2024-02-08 16:23:50.242 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.249 [info] ExtensionService#_doActivateExtension karigari.chat, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.387 [info] ExtensionService#_doActivateExtension lannonbr.vscode-js-annotations, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.573 [info] ExtensionService#_doActivateExtension M4adan.react-native-tailwind, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.661 [info] ExtensionService#_doActivateExtension metaseed.metago, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.673 [info] ExtensionService#_doActivateExtension metaseed.MetaJump, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.680 [info] ExtensionService#_doActivateExtension metaseed.MetaWord, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.699 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2024-02-08 16:23:50.766 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*', root cause: ms-vsliveshare.vsliveshare-audio
+2024-02-08 16:23:51.089 [info] ExtensionService#_doActivateExtension nhoizey.gremlins, startup: true, activationEvent: '*'
+2024-02-08 16:23:51.103 [info] ExtensionService#_doActivateExtension Noctarya.terminals, startup: true, activationEvent: '*'
+2024-02-08 16:23:51.824 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-02-08 16:23:51.827 [info] ExtensionService#_doActivateExtension OnlyLys.leaper, startup: true, activationEvent: '*'
+2024-02-08 16:23:51.834 [info] ExtensionService#_doActivateExtension shyykoserhiy.vscode-spotify, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.579 [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.582 [info] ExtensionService#_doActivateExtension spmeesseman.vscode-extjs, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.629 [info] ExtensionService#_doActivateExtension svipas.control-snippets, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.634 [info] ExtensionService#_doActivateExtension tintaydo.convert, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.651 [info] ExtensionService#_doActivateExtension tombonnike.vscode-status-bar-format-toggle, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.660 [info] ExtensionService#_doActivateExtension xyz.local-history, startup: true, activationEvent: '*'
+2024-02-08 16:23:52.711 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-02-08 16:23:53.606 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-02-08 16:23:53.631 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2024-02-08 16:23:54.676 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:54.677 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:54.678 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:55.079 [error] Activating extension numso.prettier-standard-vscode failed due to an error:
+2024-02-08 16:23:55.079 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:55.080 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-08 16:23:55.129 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-08 16:23:55.492 [info] ExtensionService#_doActivateExtension iocave.customize-ui, startup: true, activationEvent: '*'
+2024-02-08 16:23:56.021 [error] Activating extension vscode.npm failed due to an error:
+2024-02-08 16:23:56.021 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:56.098 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:56.101 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:56.729 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2523
+2024-02-08 16:23:57.347 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:23:57.583 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1841
+2024-02-08 16:23:57.613 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2523
+2024-02-08 16:23:58.276 [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare-audio, startup: true, activationEvent: '*'
+2024-02-08 16:23:58.592 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1841
+2024-02-08 16:23:59.198 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.202 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.215 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.225 [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.238 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.258 [info] ExtensionService#_doActivateExtension ApolloGraphQL.apollo-workbench, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.399 [info] ExtensionService#_doActivateExtension BenRogersWPG.transparent-minimap, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.402 [info] ExtensionService#_doActivateExtension bierner.emojisense, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.416 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.444 [info] ExtensionService#_doActivateExtension CodeSandbox-io.codesandbox-projects, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.543 [info] ExtensionService#_doActivateExtension CodeStream.codestream, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.620 [info] ExtensionService#_doActivateExtension ctf0.macros, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:23:59.623 [info] ExtensionService#_doActivateExtension cweijan.vscode-mysql-client2, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.015 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.029 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.078 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.136 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.179 [info] ExtensionService#_doActivateExtension kricsleo.vscode-package-json-inspector, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.182 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.193 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.205 [info] ExtensionService#_doActivateExtension stivo.tailwind-fold, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.211 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.254 [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.289 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.328 [info] ExtensionService#_doActivateExtension vsls-contrib.gistfs, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:00.385 [info] ExtensionService#_doActivateExtension wraith13.bracket-lens, startup: false, activationEvent: 'onStartupFinished'
+2024-02-08 16:24:03.134 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-08 16:24:04.080 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2615
+2024-02-08 16:24:05.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2615
+2024-02-08 16:24:05.053 [info] Eager extensions activated
+2024-02-08 16:24:05.534 [error] Error: spawn /opt/code-insiders/resources/app/node_modules.asar.unpacked/@vscode/ripgrep/bin/rg EACCES
+    at M (vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1844:5846)
+    at vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:4038
+    at async vscode-file://vscode-app/opt/code-insiders/resources/app/out/vs/workbench/workbench.desktop.main.js:1852:2608
+2024-02-08 16:24:05.545 [error] Error: Setup Team Chat to work for your account.
+    at /home/god/.vscode-insiders/extensions/karigari.chat-0.35.0/out/extension.js:151:179152
+    at Timeout._onTimeout (/home/god/.vscode-insiders/extensions/karigari.chat-0.35.0/out/extension.js:151:179182)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-02-08 16:24:05.855 [error] Error: EACCES: permission denied, open '/tmp/remote-file-71752ccfe2464e99/1d68001ef112fa197e0de1f2cbc5ab57ebf464a5ae676667c4e51b82762627a7/018d872c4d7d-0x8DA40081B2F7F5B'
+2024-02-08 16:24:15.752 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-02-08 16:24:16.774 [error] TypeError: Cannot read properties of undefined (reading 'appendLine')
+    at Object.get followedUsers [as followedUsers] (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:780311)
+    at t.refreshGists (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:776491)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at y (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:778251)
+    at v (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:778699)
+    at t.initializeAuth (/home/god/.vscode-insiders/extensions/vsls-contrib.gistfs-0.6.0/dist/extension.js:2:779191)
+2024-02-08 16:24:17.300 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/uniGraph' found.
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/KonSoulOperator' found.
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/kikpaste' found.
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/MultiVerse' found.
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/PerfectLint' found.
+2024-02-08 16:24:25.020 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/NextMc2squared' found.
+2024-02-08 16:24:25.021 [error] No tree item with id '1/gitlens://viewnode/repository/repo//var/www/localhost/htdocs/CloudNine' found.
+2024-02-08 16:24:42.361 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-08 16:24:42.420 [error] An error occurred when deactivating the subscriptions for extension 'Gruntfuggly.scoper':
+2024-02-08 16:24:42.421 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Scoper.dispose (/home/god/.vscode-insiders/extensions/gruntfuggly.scoper-0.0.13/scoper.js:183:24)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:24:42.454 [error] An error occurred when deactivating the extension 'stivo.tailwind-fold':
+2024-02-08 16:24:42.455 [error] TypeError: Cannot destructure property 'subscriptions' of 'undefined' as it is undefined.
+    at Object.deactivate (/home/god/.vscode-insiders/extensions/stivo.tailwind-fold-0.1.0/out/extension.js:38:23)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9450)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-02-08 16:24:42.475 [warning] Canceled
+2024-02-08 16:24:42.481 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.482 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.482 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.483 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.483 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.484 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.484 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at n.D [as value] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1261575)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.485 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at t.$D.set b [as b] (/opt/code-insiders/resources/app/extensions/github/dist/extension.js:2:676102)
+    at /opt/code-insiders/resources/app/extensions/github/dist/extension.js:2:676743
+    at n.value (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1348807)
+    at f.w (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1902)
+    at f.x (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1972)
+    at fire (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2188)
+    at Object.m [as dispose] (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1277157)
+    at /opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281876
+    at Array.forEach (<anonymous>)
+    at g.dispose (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1281862)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/extensions/git/dist/main.js:2:1263587)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.486 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.486 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.487 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at w (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:40655)
+    at h (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1077:45702)
+    at ActionRunners._updateContextKeys (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:17573)
+    at s (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16017)
+    at RegisteredActionRunner.unregister (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:16160)
+    at RegisteredActionRunner.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:14813)
+    at ActionRunners.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:663:15600)
+    at /home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19287
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/eamodio.gitlens-14.7.0/dist/gitlens.js:1037:19269)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:42.488 [error] Canceled: Canceled
+    at new h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:57254)
+    at i.O (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:8020)
+    at Proxy.z.<computed>.T.charCodeAt.z.<computed> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:5459)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81010)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at $.registerCommand.description (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:79769)
+    at r.h (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:81546)
+    at r.g (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80541)
+    at r.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:80448)
+    at Object.executeCommand (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:21157)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/lookAheadSuggestion.ts:162:21)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at E.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3460)
+    at E.dispose (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:3557)
+    at forEach (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:121:7)
+    at Array.forEach (<anonymous>)
+    at uninstallAutocomplete (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:120:17)
+    at Object.dispose (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/autocompleteInstaller.ts:27:20)
+    at k (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:13:11732)
+    at n.Z (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:9641)
+    at /opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7580
+    at Array.map (<anonymous>)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7567)
+    at n.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7837)
+    at o.terminate (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:1513)
+    at t (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:32310)
+    at MessagePortMain.<anonymous> (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:130:28735)
+    at MessagePortMain.emit (node:events:513:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-02-08 16:24:43.479 [error] Error: Channel has been closed
+    at s (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2490)
+    at Object.appendLine (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2608)
+    at Object.log (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/binary/Binary.ts:82:14)
+    at async Promise.all (index 74)
+    at n.S (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:7594)
+2024-02-08 16:24:45.481 [error] Error: Channel has been closed
+    at s (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2490)
+    at Object.appendLine (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2608)
+    at Object.log (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/binary/Binary.ts:82:14)
+2024-02-08 16:24:46.482 [error] Error: Channel has been closed
+    at s (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2490)
+    at Object.appendLine (/opt/code-insiders/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:2608)
+    at Object.log (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:44:24)
+    at Object.error (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/utils/logger.ts:68:10)
+    at t.default.request (/home/god/.vscode-insiders/extensions/tabnine.tabnine-vscode-3.67.0/src/binary/Binary.ts:82:14)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:538:9)
+    at processTimers (node:internal/timers:512:7)
+2024-02-08 16:24:47.438 [info] Extension host with pid 701 exiting with code 0

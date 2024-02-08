@@ -1,0 +1,18 @@
+GitLens v14.7.0 activating in Visual Studio Code - Insiders (1.82.0-insider) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (b221aeeb94271184106293454c77e08df1f155840f20c72b776093535cd2252f|9b0975a8-0cae-4419-8ed4-15918c83c3bd1707369705978)
+To enable debug logging, set `"gitlens.outputLevel: "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette[2024-02-08 05:22:12.990] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git rev-parse --show-toplevel [*528ms] (slow)
+[2024-02-08 05:22:12.992] [GIT  ] [/var/www/localhost/htdocs/NextMc2squared] git rev-parse --show-toplevel [*531ms] (slow)
+[2024-02-08 05:22:12.993] [GIT  ] [/var/www/localhost/htdocs/PerfectLint] git rev-parse --show-toplevel [*532ms] (slow)
+[2024-02-08 05:22:12.997] [GIT  ] [/var/www/localhost/htdocs/MultiVerse] git rev-parse --show-toplevel [*537ms] (slow)
+[2024-02-08 05:22:12.997] [GIT  ] [/var/www/localhost/htdocs/kikpaste] git rev-parse --show-toplevel [*538ms] (slow)
+[2024-02-08 05:22:12.997] [GIT  ] [/var/www/localhost/htdocs/KonSoulOperator] git rev-parse --show-toplevel [*539ms] (slow)
+[2024-02-08 05:22:12.997] [GIT  ] [/var/www/localhost/htdocs/uniGraph] git rev-parse --show-toplevel [*541ms] (slow)[2024-02-08 05:22:20.058] getLocalWorkspaceData
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/god/.gitkraken/workspaces/workspaces.json'
+[2024-02-08 05:22:20.196] [GIT  ] [/var/www/localhost/htdocs/PerfectLint] git remote -v [*501ms] (slow)
+[2024-02-08 05:22:20.199] [GIT  ] [/var/www/localhost/htdocs/MultiVerse] git remote -v [*505ms] (slow)
+[2024-02-08 05:22:20.199] [GIT  ] [/var/www/localhost/htdocs/kikpaste] git remote -v [*506ms] (slow)
+[2024-02-08 05:22:20.202] [GIT  ] [/var/www/localhost/htdocs/KonSoulOperator] git remote -v [*510ms] (slow)
+[2024-02-08 05:22:20.203] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git ls-files -- Components/VitePrint/VitePrint.jsx [*1595ms] (slow)
+[2024-02-08 05:22:20.203] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git remote -v [*1596ms] (slow)
+[2024-02-08 05:22:20.258] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git ls-files -- devServer.js [*1652ms] (slow)
+[2024-02-08 05:22:20.261] [GIT  ] [/var/www/localhost/htdocs/uniGraph] git remote -v [*1723ms] (slow)[2024-02-08 05:22:20.715] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git config --get-regex ^user\. [*504ms] (slow)
+[2024-02-08 05:22:20.756] [GIT  ] [/var/www/localhost/htdocs/NextMc2squared] git remote -v [*1061ms] (slow)[2024-02-08 05:22:23.224] [GIT  ] [/var/www/localhost/htdocs/CloudNine] git log --format=%x3c%x2ff%x3e%n%x3cr%x3e%x20%H%n%x3ca%x3e%x20%aN%n%x3ce%x3e%x20%aE%n%x3cd%x3e%x20%at%n%x3cn%x3e%x20%cN%n%x3cm%x3e%x20%cE%n%x3cc%x3e%x20%ct%n%x3cp%x3e%x20%P%n%x3cs%x3e%n%B%n%x3c%x2fs%x3e%n%x3cf%x3e -M --name-status --full-history -m --no-min-parents -n3 6f8d03554f705c0201c4e43e166e6491de5dfd31 -- [*2205ms] (slow)[2024-02-08 05:23:37.483] [GIT  ] [/var/www/localhost/htdocs/NextMc2squared] git status --porcelain=v2 --branch -u --find-renames -- [*610ms] (slow)

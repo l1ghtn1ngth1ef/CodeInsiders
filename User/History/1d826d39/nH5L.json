@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "/var/www/localhost/htdocs/uniGraph"
+		},
+		{
+			"path": "/var/www/localhost/htdocs/KonSoulOperator"
+		},
+		{
+			"path": "../../../../../../var/www/localhost/htdocs/kikpaste"
+		},
+		{
+			"path": "../../../../../../var/www/localhost/htdocs/MultiVerse"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"minimap.background": "#00000000",
+			"scrollbar.shadow": "#00000000"
+		},
+		"cSpell.words": [
+			"nonoctal"
+		]
+	}
+}
